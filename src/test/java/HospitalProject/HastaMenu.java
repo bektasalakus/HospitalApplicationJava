@@ -1,5 +1,6 @@
 package HospitalProject;
 
+import javax.swing.*;
 import java.sql.*;
 import java.util.*;
 
