@@ -64,7 +64,6 @@ public class Register {
 
     }
 
-
     public static void STOP() {
         System.out.println("Sistemden Cıkıs Yapıldı");
         System.exit(0);
