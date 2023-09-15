@@ -8,6 +8,7 @@ public class RunnerKonsol {
 
     public static void main(String[] args) throws SQLException, InterruptedException, ClassNotFoundException {
 
+
         Register.Menu();
     }
 }
